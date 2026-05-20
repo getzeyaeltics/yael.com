@@ -1,0 +1,93 @@
+<html>
+<head>
+    <title>Oferta Educaiva del Cobaeh</title>
+</head>
+
+<body>
+
+<h1 align="center"><p>Colegio de Bachilleres del Estado de Hidalgo</h1>
+<div style="text-align: center;">
+    <img src="/home/chilcuautla8/Documentos/Examen Tics/cobaeh(1).png" WIDTH="30%" HEIGHT="15%">
+</div>
+<h1 align="center"><p>Plantel Chilcuautla</h1>
+<h3 align="center"><p>Te ofrecemos</h3>
+
+<h2 align="center"><p>Tecnologias de la Informacion y Comunicacion.</h2>
+<div style="text-align: center;">
+    <img src="/home/chilcuautla8/Documentos/Examen Tics/IMG-20260430-WA0001.jpg" WIDTH="30%" HEIGHT="40%">
+</div>
+<h2 align="center"><p>Instalaciones Electricas, HIdraulicas, Samitarias y de Gas LP.</h2>
+<div style="text-align: center;">
+    <img src="/home/chilcuautla8/Documentos/Examen Tics/Electricians Installing Wiring in a Construction Project.jpeg" WIDTH="30%" HEIGHT="40%">
+</div>
+
+<FORM>
+    <LABEL>Nombre:</LABEL>
+	<INPUT type="textbox"><br><br>
+	
+	<p><label>Telefono:</label></p>
+	<input type="textbox"><br><br>
+	
+	<p><label>Edad:</label></p>
+	<input type="textbox"><br><br>
+	
+
+	<p><label>SEXO:</label><br></p>
+    <input type="radio" name="sexo" value="femenino"> Femenino<br>
+    <input type="radio" name="sexo" value="masculino"> Masculino<br><br>
+    	
+    	<p><label>Comunidad:</label></p>
+	<select type="textbox">
+	  <option>Progreso</option>
+	  <option>Chilcuautla</option>
+	  <option>Ixmiquilpan</option>
+	  <option>Mixquiahuala</option>
+	</select><br><br>
+	
+</FORM>
+
+<TABLE BORDER="2px" solid="black" HEIGHT="20%" WIDTH="20%">
+
+<TD COLSPAN=5 ALIGN="CENTER">
+<h1 align="center"><p>Horarios de Atencion</h1>
+</TD>
+
+<TR>
+<td>
+<center><b>Lunes</b><br>
+<p><i> 7:00am a 11:00am</i></p>
+</center>
+</TD>
+
+<TR>
+<td>
+<center><b>Martes</b><br>
+<p><i> 8:00am a 1:00pm</i></p>
+</center>
+</TD>
+
+<TR>
+<td>
+<center><b>Miercoles</b><br>
+<p><i> 9:00am a 2:00pm</i></p>
+</center>
+</TD>
+
+<TR>
+<td>
+<center><b>Jueves</b><br>
+<p><i> 8:00am a 4:00pm</i></p>
+</center>
+</TD>
+
+<TR>
+<td>
+<center><b>Viernes</b><br>
+<p><i> 7:00am a 10:00am</i></p>
+</center>
+</TD>
+
+</body>
+</table>
+</html>
+
